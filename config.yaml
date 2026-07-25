@@ -1,0 +1,7 @@
+dataset_path: data/raw/cars.csv
+target_column: Price
+problem_type: auto
+test_size: 0.2
+random_state: 42
+numeric_features: []
+categorical_features: []
