@@ -67,3 +67,4 @@ curl -X POST "http://127.0.0.1:8000/predict" -H "Content-Type: application/json"
 - Sistem ini fokus pada regresi harga mobil bekas.
 - Model yang digunakan dapat dikembangkan lebih lanjut dengan data yang lebih besar dan fitur tambahan.
 - Laporan PDF dapat dihasilkan otomatis melalui file `generate_pdf_report.py`.
+- File video demo `reports/figures/Screen Recording 2026-07-26 114411.mp4` disimpan menggunakan Git LFS. Jika Anda clone repo, jalankan `git lfs install` lalu `git lfs pull` sebelum membuka file besar.
