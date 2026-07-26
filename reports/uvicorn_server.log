@@ -1,0 +1,4 @@
+INFO:     127.0.0.1:59678 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59679 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59680 - "POST /predict HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:59681 - "POST /predict HTTP/1.1" 422 Unprocessable Content
